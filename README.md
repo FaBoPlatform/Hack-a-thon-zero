@@ -1,5 +1,5 @@
 # Hack-a-thon-zero
 
-Fore more detail
+For more detail
 
 http://faboplatform.github.io/Hack-a-thon-zero/
